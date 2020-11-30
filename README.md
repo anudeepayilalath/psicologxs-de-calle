@@ -1,7 +1,8 @@
 # Frontend
-i. Install Node.js
 
-ii. In the command line run:
+i.Install Node.js.
+
+ii.In the command line run:
 
 **node -v**
 
