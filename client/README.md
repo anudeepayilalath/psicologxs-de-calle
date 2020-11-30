@@ -11,6 +11,7 @@
 **npx create-react-app psicologos-de-calle**
 
 **npm install bootstrap**
+**npm install react-bootstrap bootstrap**
 
 **npm install react-router-dom**
 
