@@ -4,10 +4,10 @@ import Nav from 'react-bootstrap/Nav';
 import './navbar.css'
 
 // Add this in your component file
-/* require('react-dom');
+require('react-dom');
 window.React2 = require('react');
-console.log('react2',React2)
-console.log(window.React1 === window.React2); */
+
+console.log(window.React1 === window.React2);
 
 const Navbar = () => {
     return(
