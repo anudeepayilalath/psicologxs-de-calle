@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/psicologxs-de-calle/static/css/main.177db184.chunk.css",
+    "main.js": "/psicologxs-de-calle/static/js/main.5cefd03b.chunk.js",
+    "main.js.map": "/psicologxs-de-calle/static/js/main.5cefd03b.chunk.js.map",
+    "runtime-main.js": "/psicologxs-de-calle/static/js/runtime-main.09f6476f.js",
+    "runtime-main.js.map": "/psicologxs-de-calle/static/js/runtime-main.09f6476f.js.map",
+    "static/css/2.1a02f21c.chunk.css": "/psicologxs-de-calle/static/css/2.1a02f21c.chunk.css",
+    "static/js/2.b256ae32.chunk.js": "/psicologxs-de-calle/static/js/2.b256ae32.chunk.js",
+    "static/js/2.b256ae32.chunk.js.map": "/psicologxs-de-calle/static/js/2.b256ae32.chunk.js.map",
+    "index.html": "/psicologxs-de-calle/index.html",
+    "static/css/2.1a02f21c.chunk.css.map": "/psicologxs-de-calle/static/css/2.1a02f21c.chunk.css.map",
+    "static/css/main.177db184.chunk.css.map": "/psicologxs-de-calle/static/css/main.177db184.chunk.css.map",
+    "static/js/2.b256ae32.chunk.js.LICENSE.txt": "/psicologxs-de-calle/static/js/2.b256ae32.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.09f6476f.js",
+    "static/css/2.1a02f21c.chunk.css",
+    "static/js/2.b256ae32.chunk.js",
+    "static/css/main.177db184.chunk.css",
+    "static/js/main.5cefd03b.chunk.js"
+  ]
+}
