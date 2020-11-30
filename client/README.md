@@ -17,7 +17,7 @@
 
 **npm start**
 
-## GitHub pages
+## GitHub pages https://joannawebdev.github.io/psicologxs-de-calle/
 
 In the client folder, open a terminal:
 **npm install gh-pages --save-dev**
@@ -32,7 +32,7 @@ In the package.json add
 
 Terminal cd
 
-## Live demo on Netlify 
+## Live demo on Netlify pending
 **npm run build**
 **npm install netlify-cli -g**
 **netlify deploy**
