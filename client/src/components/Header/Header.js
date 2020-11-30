@@ -3,17 +3,17 @@ import Logo from './../Logo/Logo';
 
 import Button from 'react-bootstrap/Button'
 
-import styles from './header.css'
+import './header.css'
 
 
 const Header = () => {
   return (
     <div className="container my-4">
-      <div class="row justify-content-center">
-        <div class="col">
+      <div className="row justify-content-center">
+        <div className="col">
           <Logo/>
         </div>
-        <div class="col d-sm-none d-md-block d-none d-sm-block justify-content-end text-right">
+        <div className="col d-sm-none d-md-block d-none d-sm-block justify-content-end text-right">
         <Button className="text-uppercase signInText" variant="link">Área privada</Button> 
         </div>        
       </div>
