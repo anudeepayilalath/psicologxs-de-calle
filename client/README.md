@@ -19,14 +19,19 @@
 
 ## GitHub pages https://joannawebdev.github.io/psicologxs-de-calle/
 
-In the client folder, open a terminal:
+In the client folder right click on Windows, "open in integrated terminal":
 **npm install gh-pages --save-dev**
 
 In the package.json add
+
 **"homepage": "https://joannawebdev.github.io/psicologxs-de-calle",**
+
 "scripts": {
+
 //...
+
 "predeploy": "npm run build",
+
 "deploy": "gh-pages -d build"
 }
 
@@ -34,5 +39,7 @@ Terminal cd
 
 ## Live demo on Netlify pending
 **npm run build**
+
 **npm install netlify-cli -g**
+
 **netlify deploy**
