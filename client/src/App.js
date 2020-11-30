@@ -1,10 +1,26 @@
+import React from 'react';
+import { BrowserRouter as Router, Route } from 'react-router-dom';
 
-function App() {
+import Header from './components/Header/Header';
+import Navigation from './components/Navigation/Navigation';
+import Home from './pages/Home';
+
+import './App.css';
+
+
+
+const App = () => {
   return (
-    <div className="App">
-      Hello Psicologxs de calle
-    </div>
-  );
+    <Router>
+      <div className="App">
+        <Header />
+        <Navigation />
+
+        <Route path="/" exact component={Home} />
+
+      </div>
+    </Router>
+  )
 }
 
 export default App;
