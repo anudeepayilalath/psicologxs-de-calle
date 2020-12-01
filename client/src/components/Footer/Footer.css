@@ -1,0 +1,27 @@
+.footer{
+    padding:5% 6%;
+    color:white;
+}
+
+#firstItem{
+    padding-left:4%;
+    padding-right: 4%;
+}
+
+
+
+#firstItem h2{
+    font-weight:800;
+    
+}
+
+/* .midcomp{
+    padding:15%;
+} */
+
+#footerImg{padding:8.5%;}
+
+#thirdItem img{
+
+    padding:2%;
+}
